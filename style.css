@@ -1,0 +1,53 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(https://cdnb.artstation.com/p/assets/images/images/027/623/803/large/joshua-dunlop-muk-watermarks.jpg?1592068809) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  color: #d1cccc;
+  font-size: 3rem;
+  background-color: black;
+  border-color: rebeccapurple;
+  outline-color: rebeccapurple;
+}
+
+hr {
+  border-color: ;
+  border-width: 3px;
+  max-width: 65px;
+}
+
+.buffer {
+  height: 0rem;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+  text-transform: uppercase;  
+}
+
+
+.btn-primary {
+  background-color: rebeccapurple;
+  border-color: rebeccapurple;
+}
+
+.btn-primary:hover {
+  background-color: limegreen;
+  border-color: limegreen;
+  border-width: 4px;
+
+}
+
+.btn-xl {
+  padding: 1rem 4rem;
+  color: paleturquoise;
+}
